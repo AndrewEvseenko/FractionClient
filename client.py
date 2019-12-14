@@ -1,10 +1,6 @@
 import socket
 
 
-def listen_function(conn):
-    pass
-
-
 class Client:
 
     def __init__(self):
